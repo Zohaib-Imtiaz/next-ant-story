@@ -1,12 +1,19 @@
 {
   "name": "next-ant-story",
-  "version": "0.1.0",
-  "private": true,
-  "author": {
-    "name": "Muhammad Zohaib Imtiaz",
-    "email": "zohaib_phone@outlook.com",
-    "url": "https://www.linkedin.com/in/muhammad-zohaib-imtiaz/"
+  "version": "0.1.3",
+  "private": false,
+  "author": "Muhammad Zohaib Imtiaz <zohaib_phone@outlook.com> (https://www.linkedin.com/in/muhammad-zohaib-imtiaz/)",
+  "keywords": [
+    "react",
+    "next",
+    "ant-design",
+    "storybook"
+  ],
+  "license": "MIT",
+  "bin": {
+    "next-ant-story": "./bin/generate-app.js"
   },
+  "main": "./bin/generate-app.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
