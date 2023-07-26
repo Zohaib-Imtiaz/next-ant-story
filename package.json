@@ -2,6 +2,11 @@
   "name": "next-ant-story",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Muhammad Zohaib Imtiaz",
+    "email": "zohaib_phone@outlook.com",
+    "url": "https://www.linkedin.com/in/muhammad-zohaib-imtiaz/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
