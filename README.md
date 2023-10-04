@@ -34,4 +34,4 @@ This template is configured to provide plug and play. Each of the configured lib
 
  **Ant Design:** [Ant Components](https://ant.design/components/overview/).
  
- **Storybook:** [Storybook Home](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app).
+ **Storybook:** [Storybook Home](https://storybook.js.org/).
