@@ -30,8 +30,6 @@ This template is created with Nextjs 13 Typescript uses the Ant Design and pre-c
 
 This template is configured to provide plug and play. Each of the configured library have their documentation up to date on their official websites.
 
-<ul>
-  <li> **Next 13:** [Next Documentation](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app).</li>
-  <li> **Ant Design:** [Ant Components](https://ant.design/components/overview/).</li>
-  <li> **Storybook:** [Storybook Home](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app).</li>
-</ul>
+ **Next 13:** [Next Documentation](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app).
+ **Ant Design:** [Ant Components](https://ant.design/components/overview/).
+ **Storybook:** [Storybook Home](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app).
